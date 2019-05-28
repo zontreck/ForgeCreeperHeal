@@ -1,9 +1,6 @@
-This mod is unmaintened, I currently look to create a new for Sponge.
-
-Have a look here : https://github.com/RedRelay/SpongeCreeperHeal !
-
-Sponge is more adapted to this projet, and maintenance cost is lower.
-I earn some experiences in developement in the last year, even if I am more a Node.js and Salesforce e-commerce developper right now. I will take all my new skill, to made a largely better structured and cleaner code for Sponge.
+This fork of the mod is maintained by zontreck. 
+Please view where this was forked from for original author credits. 
+The mod by RedRelay is unmaintained. 
 Stay tuned ;)
 
 # Forge Creeper Heal (100K Downloads)
